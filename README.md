@@ -1,7 +1,7 @@
 # Chrome-dino-NEAT-ai
 AI to play chrome dino game wrote on python, based on NEAT alghoritm
 
-yotube video: 
+yotube video: https://youtu.be/pXsqaGeuyKE
 
 1) install dependences from [dependences.txt](https://github.com/ruslan-ilesik/Chrome-dino-NEAT-ai/blob/main/dependences.txt)
 2) download chromedriver based on your os and chrome version from [offical website](https://chromedriver.chromium.org/) and put file in "src" folder
