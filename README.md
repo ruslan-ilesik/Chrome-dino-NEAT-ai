@@ -9,4 +9,4 @@ yotube video: https://youtu.be/pXsqaGeuyKE
 4) if you want you can edit [config](https://github.com/ruslan-ilesik/Chrome-dino-NEAT-ai/blob/main/src/ai/config) file
 5) start an ai
 
-There is an auto saving alghoritm which save population every 50 generations. You can get winner running only one generation. To replay winner use replay_genome (commented file in main.py)
+There is an auto saving alghoritm which save population every 50 generations. You can get winner running only one generation. To replay winner use replay_genome (commented line in main.py)
